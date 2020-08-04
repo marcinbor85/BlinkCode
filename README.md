@@ -8,6 +8,7 @@ port to different architecture.
 * asynchronous non-blocking API with background processing
 * hardware independent high-level architecture
 * works well with digital, analogs and other signal output backends
+* unlimited number of parallel blink codes
 * easy to use with Arduino boards
 * support 1-99 codes numbers
 * configurable pulse times
